@@ -3,6 +3,8 @@
 ## About Me
 I'm Ronim Karki, a passionate Front-End Developer with a keen eye for crafting user-centric web experiences. My journey in the world of coding has led me to explore the realms of HTML, CSS, and JavaScript, and I'm constantly pushing the boundaries of creativity and functionality.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ronim-Karki)](https://github.com/Ronim-karki/github-profile-trophy)
+
 ## Skills and Expertise
 - HTML5, CSS3, JavaScript (ES6+)
 - Responsive Web Design
